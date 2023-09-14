@@ -1,0 +1,4 @@
+Explique com suas palavras o que é o acoplamento entre classes.
+R- O acoplamento mede o nível de interdependência entre classes em um sistema de software, um forte acoplamento entre classes
+significa que as classes dependem muito uma da outra o que torna o codigo rigido e complicado de fazer alteraçoes e para manter, já um acoplamento fraco
+significa q as classes sao mais independentes e flexiveis, o que facilita a manutenção do codigo.
