@@ -1,6 +1,8 @@
 import java.io.FileWriter;
 import java.io.IOException;
 
+//Integranntes: Kaike Dias, Igor Julliano, Kelson Eduardo
+
 public class Questao3 {
     public interface PersistenciaStrategy {
         void salvar(String dados, String arquivo) throws IOException;

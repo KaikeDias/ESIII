@@ -1,3 +1,5 @@
+//Integranntes: Kaike Dias, Igor Julliano, Kelson Eduardo
+
 class Quadrado {
     private int lado;
 

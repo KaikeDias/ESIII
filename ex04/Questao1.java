@@ -1,3 +1,5 @@
+//Integranntes: Kaike Dias, Igor Julliano, Kelson Eduardo
+
 // A abordagem de composição foi escolhida em vez de herança no design das classes ContaBancaria e ContaPoupanca devido a uma restrição específica na classe derivada. 
 // Ao impor uma condição específica no método sacar, a classe ContaPoupanca violaria o princípio da substituição de Liskov se usasse herança direta. 
 // Utilizando a composição, a ContaPoupanca contém uma instância de ContaBancaria, permitindo a delegação controlada de métodos e evitando a herança direta, 
