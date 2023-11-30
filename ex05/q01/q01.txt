@@ -1,2 +1,4 @@
+Participantes: Kaike Dias, Kelson Eduardo, Igor Julliano
+
 1. Qual a principal imagem relacionada ao princípio e qual a explicação sobre ela?
     R- O Interface Segregation Principle (ISP) adverte contra a criação de interfaces extensas e abrangentes que incluem métodos desnecessários para todas as classes que as implementam. Nesse sentido a imagem mostra um cabo usb que possui varias entradas diferentes na outra ponta, que se provam desnecessarias ja que so pode ser usada uma por vez.

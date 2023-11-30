@@ -1,3 +1,5 @@
+Participantes: Kaike Dias, Kelson Eduardo, Igor Julliano
+
 7. Cite um exemplo em que uma mudança em uma dependência, por exemplo, banco de dados, ou mecanismo de autenticação ou conexão via sockets poderia impactar
 uma implementação de outros módulos.
     R- Um exemplo seria a mudança na dependência do banco de dados, de PostgreSQL para MongoDB por ex, em um sistema de comércio eletrônico com módulos de processamento de pedidos, autenticação de usuários e notificação por e-mail, pode desencadear um efeito cascata. Módulos que interagem diretamente com o banco de dados precisariam ser ajustados para se adaptar à nova tecnologia, envolvendo alterações nos esquemas, consultas e métodos de acesso aos dados. Além disso, se o mecanismo de autenticação estiver vinculado ao banco de dados, o módulo de autenticação também precisaria ser adaptado. 

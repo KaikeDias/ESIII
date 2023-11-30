@@ -1,3 +1,5 @@
+Participantes: Kaike Dias, Kelson Eduardo, Igor Julliano
+
 3. Podemos dizer que esse princípio é correlato ao Single Responsability Principle
 pelo fato de que classes e interfaces devem ter um único “foco” (SRP) e que as
 interfaces com métodos não correlatos devem ser segregadas (ISP)?
