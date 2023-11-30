@@ -1,0 +1,5 @@
+3. Podemos dizer que esse princípio é correlato ao Single Responsability Principle
+pelo fato de que classes e interfaces devem ter um único “foco” (SRP) e que as
+interfaces com métodos não correlatos devem ser segregadas (ISP)?
+
+    R- O Interface Segregation Principle (ISP) e o Single Responsibility Principle (SRP) estão correlacionados no contexto do design de software. O SRP enfatiza que uma classe deve ter apenas uma responsabilidade específica, enquanto o ISP direciona a segregação de interfaces para evitar que as classes dependam de métodos não relacionados. Ambos os princípios promovem um design mais coeso, modular e fácil de manter, garantindo que classes e interfaces tenham um único foco e responsabilidade.

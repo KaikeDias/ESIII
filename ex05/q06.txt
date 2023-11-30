@@ -1,0 +1,2 @@
+6. O que você entende por programar para Interfaces?
+    R- Programar para interfaces significa escrever código de uma forma em que você se preocupa mais com o que as coisas fazem do que com como elas fazem. Em vez de depender diretamente de detalhes específicos de uma classe, você cria interfaces abstratas que definem o que uma classe deve ser capaz de fazer. Isso oferece flexibilidade, porque você pode trocar diferentes peças do código sem mexer muito na estrutura geral.

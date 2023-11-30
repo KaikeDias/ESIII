@@ -1,0 +1,5 @@
+8. Estude o conteúdo do link abaixo e explique como o DIP se aplicaria:
+https://pt.stackoverflow.com/questions/101692/como-funciona-o-padr%C3%A3o-
+repository
+
+    R- Quando aplicamos a inversão de dependência ao padrão Repository, significa que em vez de nossas classes dependerem diretamente de como os dados são armazenados no banco, elas dependem de uma interface genérica. Essa interface define as operações básicas, como buscar, salvar e excluir. Dessa forma, se precisarmos mudar de banco de dados, por exemplo, não afetará diretamente as classes que usam esses dados

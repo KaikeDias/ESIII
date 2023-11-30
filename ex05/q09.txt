@@ -1,0 +1,3 @@
+9. Você acha que esse princípio deveria ser um dos primeiros em um eventual
+“check-list” de princípios SOLID a aplicarmos?
+    Acredito que seja melhor começar com conceitos mais práticos, como abstração e segregação de interfaces. Ao entender como interfaces proporcionam flexibilidade (graças ao princípio do open/closed), os estudantes conseguem visualizar melhor seu papel no sistema. A inversão de dependência, que lida com abstrações mais profundas sobre gerenciamento de dependências, pode vir depois, aproveitando a base construída nos conceitos anteriores.
